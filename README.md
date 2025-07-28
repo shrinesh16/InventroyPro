@@ -9,7 +9,7 @@ CODE BUSTERS
 
 ##  Features
 
-###  Version 18.0.0 Highlights
+###  InventoryPro
 
 -  Complete Inventory Management System  
 -  Real-time Notifications  
