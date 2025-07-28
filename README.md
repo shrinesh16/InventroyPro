@@ -2,23 +2,28 @@
 ## deployed on vercel
 https://inventorypro1.vercel.app
 
-## 🔧 Features
+## PROJECT BY
+CODE BUSTERS
 
-### 🚀 Version 18.0.0 Highlights
 
-- ✅ Complete Inventory Management System  
-- ✅ Real-time Notifications  
-- ✅ Dark Theme Support  
-- ✅ PDF Report Generation  
-- ✅ Multi-user Authentication (Admin/Staff)  
-- ✅ Stock Level Monitoring & Alerts  
-- ✅ Activity Logging & Reporting  
-- ✅ Indian Rupee (`₹`) Support  
-- ✅ Responsive Design  
+
+##  Features
+
+###  Version 18.0.0 Highlights
+
+-  Complete Inventory Management System  
+-  Real-time Notifications  
+-  Dark Theme Support  
+-  PDF Report Generation  
+-  Multi-user Authentication (Admin/Staff)  
+-  Stock Level Monitoring & Alerts  
+-  Activity Logging & Reporting  
+-  Indian Rupee (`₹`) Support  
+-  Responsive Design  
 
 ---
 
-### 📦 Shipments
+###  Shipments
 
 - Product selection with stock validation  
 - Auto-calculated shipping fees  
@@ -28,7 +33,7 @@ https://inventorypro1.vercel.app
 
 ---
 
-### 📊 Reports
+###  Reports
 
 - Toggle between inventory and shipment data  
 - Shipment analytics: turnover, top products, charts  
@@ -36,7 +41,7 @@ https://inventorypro1.vercel.app
 
 ---
 
-### 📋 Activity Logs
+###  Activity Logs
 
 - Separate logs for inventory & shipments  
 - Track actions with user, time, quantity, and notes  
@@ -45,7 +50,7 @@ https://inventorypro1.vercel.app
 
 ---
 
-### 🔄 Smart Integration
+###  Smart Integration
 
 - Auto stock deduction on shipment  
 - Alerts update when stock is affected  
@@ -53,7 +58,7 @@ https://inventorypro1.vercel.app
 
 ---
 
-### 🎯 Key Functional Logic
+###  Key Functional Logic
 
 - `"Only X units are available"` stock validation  
 - `Shipping Fee = (Price × %) / 100`  
