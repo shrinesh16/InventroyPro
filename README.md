@@ -3,7 +3,11 @@
 https://inventorypro1.vercel.app
 
 ## PROJECT BY
-CODE BUSTERS
+CODE BUSTERS:
+Shrinesh TM
+Sujithra G
+Varun krishna C
+Sumanth devarathi rajinikath
 
 
 
