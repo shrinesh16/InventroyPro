@@ -21,8 +21,28 @@ CODE BUSTERS
 -  Indian Rupee (`₹`) Support  
 -  Responsive Design  
 
----
 
+##  Tech Stack
+
+###  Frontend
+- **Next.js** (React Framework)
+- **TailwindCSS** (Styling)
+- **TypeScript** (Type Safety)
+- **Chart.js** (Reporting Charts)
+
+###  Backend
+- **PostgreSQL** (Relational Database)
+- **Prisma ORM** (Database Client)
+- **pgAdmin** (GUI for PostgreSQL)
+- **Next.js App Router API** (for REST endpoints)
+
+###  Dev Tools
+- **VS Code**
+- **Prisma Studio** (optional)
+- **Node.js** (Runtime)
+- **npm** (Package Manager)
+
+  
 ###  Shipments
 
 - Product selection with stock validation  
