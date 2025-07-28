@@ -4,10 +4,10 @@ https://inventorypro1.vercel.app
 
 ## PROJECT BY
 CODE BUSTERS:
-Shrinesh TM
-Sujithra G
-Varun krishna C
-Sumanth devarathi rajinikath
+- Shrinesh TM
+- Sujithra G
+- Varun krishna C
+- Sumanth devarathi rajinikath
 
 
 
