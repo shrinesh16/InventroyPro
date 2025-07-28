@@ -1,5 +1,5 @@
 # Real-time inventory system
-## deployed on vercel
+## Deployed on Vercel
 https://inventorypro1.vercel.app
 
 ## PROJECT BY
