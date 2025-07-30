@@ -9,7 +9,7 @@ CODE BUSTERS:
 - Varun krishna C
 - Sumanth devarathi rajinikath
 
-
+We bilt this project together for a hacathon which made us understand more about typescript and a fullstack experience 
 
 ##  Features
 
