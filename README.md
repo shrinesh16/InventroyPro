@@ -6,10 +6,10 @@ https://inventorypro1.vercel.app
 CODE BUSTERS:
 - Shrinesh TM
 - Sujithra G
-- Varun krishna C
-- Sumanth devarathi rajinikath
+- Varun Krishna C
+- Sumanth Devarathi Rajinikath
 
-We bilt this project together for a hacathon which made us understand more about typescript and a fullstack experience 
+We bilt this project together for a hacathon which made us understand more about typescript and a fullstack experience. 
 
 ##  Features
 
