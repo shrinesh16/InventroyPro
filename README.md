@@ -1,6 +1,8 @@
 # Real-time inventory system
 ## Deployed on Vercel
 https://inventorypro1.vercel.app
+No backend yet fork it or clone it to create a backend
+onec i created backend will mention the techstacks
 
 ## PROJECT BY
 CODE BUSTERS:
