@@ -1,4 +1,5 @@
 # Real-time inventory system
+opensourse project for small scale sales industries
 ## Deployed on Vercel
 https://inventorypro1.vercel.app
 No backend yet fork it or clone it to create a backend
